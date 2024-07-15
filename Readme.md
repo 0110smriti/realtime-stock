@@ -13,7 +13,7 @@ This project is a simple web application that collects and displays real-time pr
 
 ```bash
 git clone https://github.com/0110smriti/stock.git
-cd stock-crypto-tracker
+cd stock
 ```
 
 2. **Set up the backend:**
@@ -71,4 +71,4 @@ The frontend will be available at `http://localhost:3000`.
 1. Open the application in your browser at `http://localhost:3000`.
 2. Select a stock  from the dropdown.
 3. The table will update every 5 seconds with the latest price data.
-4. Click the "Change Stock" button to open the modal and select a different stock or cryptocurrency.
+4. Click the "Change Stock" button to open the modal and select a different stock.
