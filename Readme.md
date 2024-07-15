@@ -33,7 +33,7 @@ npm install
 
 ### Backend
 
-1. Create a `.env` file in the `backend` directory with the following content:
+1. Create a `.env` file in the `stock` directory with the following content:
 
 ```
 MONGODB_URI=<your-mongodb-uri>
