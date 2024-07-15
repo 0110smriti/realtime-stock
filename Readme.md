@@ -19,14 +19,13 @@ cd stock
 2. **Set up the backend:**
 
 ```bash
-cd backend
 npm install
 ```
 
 3. **Set up the frontend:**
 
 ```bash
-cd ../frontend
+cd frontend
 npm install
 ```
 
