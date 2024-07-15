@@ -12,6 +12,7 @@ This project is a simple web application that collects and displays real-time pr
 1. **Clone and enter the repository:**
 
 ```bash
+git clone https://github.com/0110smriti/stock.git
 cd stock-crypto-tracker
 ```
 
