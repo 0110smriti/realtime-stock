@@ -52,14 +52,13 @@ No additional configuration is needed for the frontend.
 1. **Start the backend server:**
 
 ```bash
-cd backend
 npm run dev
 ```
 
 2. **Start the frontend development server:**
 
 ```bash
-cd ../frontend
+cd frontend
 npm start
 ```
 
